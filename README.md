@@ -9,91 +9,47 @@ The order of the states have no particular importance, it is only ordered in col
 
 ### Resume Screening
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume screening</div>
-  </foreignObject>
-</svg>
+<img src="badges/resumeScreening.svg" style="width: 100%;" alt="Resume Screening Badge">
 
 ### Resume Evaluation
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume evaluation</div>
-  </foreignObject>
-</svg>
+<img src="badges/resumeEvaluation.svg" style="width: 100%;" alt="Resume Evaluation Badge">
 
 ### Written Examination
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Written test</div>
-  </foreignObject>
-</svg>
+<img src="badges/writtenExamination.svg" style="width: 100%;" alt="Written Examination Badge">
 
 ### Evaluation Passed
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume Passed</div>
-  </foreignObject>
-</svg>
+<img src="badges/evaluationPassed.svg" style="width: 100%;" alt="Evaluation Passed Badge">
 
 ### Interview
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Interviewing</div>
-  </foreignObject>
-</svg>
+<img src="badges/interview.svg" style="width: 100%;" alt="Interview Badge">
 
 ### Interview Pass
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Interview completed</div>
-  </foreignObject>
-</svg>
+<img src="badges/interviewPass.svg" style="width: 100%;" alt="Interview Pass Badge">
 
 ### Pending Entry
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Pending onboard</div>
-  </foreignObject>
-</svg>
+<img src="badges/pendingEntry.svg" style="width: 100%;" alt="Pending Entry Badge">
 
 ### Have Joined
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Onboarded</div>
-  </foreignObject>
-</svg>
+<img src="badges/haveJoined.svg" style="width: 100%;" alt="Have Joined Badge">
 
 ### Transfer
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Referred to another job</div>
-  </foreignObject>
-</svg>
+<img src="badges/transfer.svg" style="width: 100%;" alt="Transfer Badge">
 
 ### Termination
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Ended</div>
-  </foreignObject>
-</svg>
+<img src="badges/termination.svg" style="width: 100%;" alt="Termination Badge">
 
 ### Unknown
 
-<svg width="200" height="25">
-  <foreignObject width="100%" height="100%">
-    <div style="width: max-content; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Unknown</div>
-  </foreignObject>
-</svg>
+<img src="badges/unknown.svg" style="width: 100%;" alt="Unknown Badge">
 
 ## Enum
 
