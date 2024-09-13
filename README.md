@@ -9,47 +9,91 @@ The order of the states have no particular importance, it is only ordered in col
 
 ### Resume Screening
 
-<div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Resume screening</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume screening</div>
+  </foreignObject>
+</svg>
 
 ### Resume Evaluation
 
-<div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Resume evaluation</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #5c3a00; background-color: #faf1d1; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume evaluation</div>
+  </foreignObject>
+</svg>
 
 ### Written Examination
 
-<div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Written test</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Written test</div>
+  </foreignObject>
+</svg>
 
 ### Evaluation Passed
 
-<div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Resume Passed</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Resume Passed</div>
+  </foreignObject>
+</svg>
 
 ### Interview
 
-<div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Interviewing</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #0C296E; background-color: #E1EAFF; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Interviewing</div>
+  </foreignObject>
+</svg>
 
 ### Interview Pass
 
-<div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Interview completed</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Interview completed</div>
+  </foreignObject>
+</svg>
 
 ### Pending Entry
 
-<div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Pending onboard</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Pending onboard</div>
+  </foreignObject>
+</svg>
 
 ### Have Joined
 
-<div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Onboarded</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #124B0C; background-color: #D9F5D6; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Onboarded</div>
+  </foreignObject>
+</svg>
 
 ### Transfer
 
-<div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Referred to another job</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Referred to another job</div>
+  </foreignObject>
+</svg>
 
 ### Termination
 
-<div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Ended</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; color: #1F2329; background-color: #F5F6F7; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Ended</div>
+  </foreignObject>
+</svg>
 
 ### Unknown
 
-<div style="width: max-content; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle; margin-top: -2px;">Unknown</div>
+<svg width="200" height="25">
+  <foreignObject width="100%" height="100%">
+    <div style="width: max-content; text-align: center; border-radius: 2px; padding: 1px 8px; vertical-align: middle;">Unknown</div>
+  </foreignObject>
+</svg>
 
 ## Enum
 
