@@ -5,8 +5,8 @@
             div {
                 font-family: "Open Sans", sans-serif;
                 width: max-content;
-                color: #0C296E;
-                background-color: #E1EAFF;
+                color: #124B0C;
+                background-color: #D9F5D6;
                 text-align: center;
                 border-radius: 2px;
                 padding: 1px 8px;

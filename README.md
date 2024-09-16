@@ -19,25 +19,25 @@ The order of the states have no particular importance, it is only ordered in col
 
 <img src="badges/writtenExamination.svg" style="width: 100%;" alt="Written Examination Badge">
 
-### Evaluation Passed
-
-<img src="badges/evaluationPassed.svg" style="width: 100%;" alt="Evaluation Passed Badge">
-
 ### Interview
 
 <img src="badges/interview.svg" style="width: 100%;" alt="Interview Badge">
+
+### Evaluation Passed
+
+<img src="badges/evaluationPassed.svg" style="width: 100%;" alt="Evaluation Passed Badge">
 
 ### Interview Pass
 
 <img src="badges/interviewPass.svg" style="width: 100%;" alt="Interview Pass Badge">
 
-### Pending Entry
-
-<img src="badges/pendingEntry.svg" style="width: 100%;" alt="Pending Entry Badge">
-
 ### Have Joined
 
 <img src="badges/haveJoined.svg" style="width: 100%;" alt="Have Joined Badge">
+
+### Pending Entry
+
+<img src="badges/pendingEntry.svg" style="width: 100%;" alt="Pending Entry Badge">
 
 ### Transfer
 
